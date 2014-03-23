@@ -1,7 +1,7 @@
 bootstrap-buttons
 =================
 bootstrap3のフラットなボタンをちょっと立体的にしてみた  
-http://getbootstrap.com/
+http://getbootstrap.com/css/#buttons
 
 
 demo  
